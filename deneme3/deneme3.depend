@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703347885 source:c:\users\eda berra\desktop\c\deneme3\main.c
+	<stdio.h>
+	<stdlib.h>
+

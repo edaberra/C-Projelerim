@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704661421 source:c:\users\eda berra\desktop\c\x\main.c
+	<stdio.h>
+	<stdlib.h>
+
